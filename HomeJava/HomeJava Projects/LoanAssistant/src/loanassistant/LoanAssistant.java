@@ -231,7 +231,7 @@ PrintButtonActionPerformed(e);
 }
 private void PrintButtonActionPerformed(ActionEvent e)
 {
-    JOptionPane.showConfirmDialog(null, "Sorry, It's not working at the moment.\nIt is an one day project on last day.\nI've Learned a lot though", "Printing Error", JOptionPane.DEFAULT_OPTION,
+    JOptionPane.showConfirmDialog(null, "It's not working at the moment.\n, "Printing Error", JOptionPane.DEFAULT_OPTION,
 JOptionPane.INFORMATION_MESSAGE);
 return;
 }
